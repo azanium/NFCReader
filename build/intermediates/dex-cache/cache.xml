@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Syuaibi/Projects/azaSoftware/Android/NFCReader/app/libs/guavalib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4dad6eb644b525f4222e3c55d31c16660bacb92e">
+        <dex dex="/Users/Syuaibi/Projects/azaSoftware/Android/NFCReader/app/build/intermediates/pre-dexed/debug/guavalib_67015c9b54c0cd22dc188fb1e7aaf86de8c8587c.jar" />
+    </item>
+
+</items>
